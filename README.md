@@ -9,14 +9,14 @@
   ![Encoder](https://img.shields.io/badge/输入-旋转编码器-green)
 
   *基于 STM32F103 的 nRF24L01 无线通信 + OLED 显示 + 旋转编码器输入工程*
-  contact me:3458772695@qq.com(羡阳)
+  
 
   </div>
 
   ---
 
   ## 📖 简介
-
+  作者:3458772695@qq.com(羡阳)
   本项目基于 STM32F103，集成了三部分硬件：
 
   - **nRF24L01** 无线收发模块（SPI1 通信）
